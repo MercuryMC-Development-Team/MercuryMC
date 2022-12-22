@@ -1,0 +1,12 @@
+MercuryMC 5.2.1 (22.12.22)
+Что нового?
+
+1. В vulkan-сборку добавлен новый мод:
+ • Particle Blocker by Declipsonator - мод, добавляющий меню контролирования каждой частицы (включение/выключение).
+[modrinth.com/mod/particles]
+
+2. На версиях 1.19.3 убран мод Entity Collision FPX Fix, так как его функциональность была реализована в ванильной версии.
+
+3. В информационных файлах была добавлена новая информация.
+
+Скачать: github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.2.1
