@@ -2,9 +2,9 @@
 MercuryMC - сборка для оптимизации Minecraft: Java Edition. Сборка обладает удобной системой настройки, понятной инструкцией, поддержку нескольких графических API, практически полностью заменяет все функции оптифайна, а также не имеет в себе лишних модов. Вы получите многократный прирост FPS по сравнению с оригинальной версией игры, и при этом ничего не потеряете от привычного Вам геймплея.
 
 # Эффективность сборки
-Тест сборки на разном железе в стрессовых условиях:
-AMD Phenom 8450 Triple / NVIDIA GeForce GT 630 (vanilla 9 fps, mercurymc 60 fps)
-AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
+ Тест сборки на разном железе в стрессовых условиях:
+ AMD Phenom 8450 Triple / NVIDIA GeForce GT 630 (vanilla 9 fps, mercurymc 60 fps)
+ AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
 
 # Контакты
 Главный разработчик: t.me/agogus228
