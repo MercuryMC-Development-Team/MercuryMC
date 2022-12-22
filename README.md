@@ -3,7 +3,9 @@ MercuryMC - сборка для оптимизации Minecraft: Java Edition. 
 
 # Эффективность сборки
  Тест сборки на разном железе в стрессовых условиях:
+ 
  AMD Phenom 8450 Triple / NVIDIA GeForce GT 630 (vanilla 9 fps, mercurymc 60 fps)
+ 
  AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
 
 # Контакты
