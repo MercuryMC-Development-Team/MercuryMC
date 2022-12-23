@@ -16,7 +16,7 @@ MercuryMC - сборка для оптимизации Minecraft: Java Edition. 
 ## MercuryMC в соц-сетях
 - GitHub: github.com/MercuryMC-Development-Team/MercuryMC-rus/releases
 - Telegram: t.me/MercuryMC_Updates
-- Сайт: mercurymc.ml
+- Сайт: https://www.mercurymc.ml/
 
 ## FAQ
  - Как установить сборку? - Инструкция по установке находится в архиве со сборкой.
