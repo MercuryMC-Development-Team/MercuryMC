@@ -29,3 +29,6 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
 [Инструкция по установке MercuryMC vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
  - Где сборки на старые версии? - с декабря сборки на старые версии больше не поддерживаются. Архивные сборки Вы можете скачать [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.1.0).
  - Во время установки/игрового процесса у меня возникла ошибка, которая скорее всего связана со сборкой. Как её пофиксить? - Вы в любое время можете рассказать нам о своей проблеме во вкладке [issues](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/issues). Мы постараемся решить Вашу проблему или пофиксить баг в новых версиях сборки.
+
+## Моды MercuryMC
+Информация о модах , которые включает в себя сборка, Вы можете посмотреть [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/mods.md).
