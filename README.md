@@ -3,13 +3,18 @@
 # MercuryMC
 MercuryMC - сборка для Minecraft: Java Edition, нацеленная на оптимизацию игры. Имеет поддержку vulkan API, практически полностью заменяет все функции OptiFine, а также не имеет лишних модов. Вы получите многократный прирост FPS и при этом ничего не потеряете от привычного геймплея. 
 
+Сборка имеет три версии:
+- MercuryMC - стандартная сборка, нацеленная только на оптимизацию. 
+- MercuryMC+ - сборка с практически полной заменой всех функций optifine. Ставьте, если 
+- MercuryMC vulkan - сборка с поддержкой vulkan API. Сборка не стабильна, поддерживается не на всех графических ядрах.
+
 ## Эффективность сборки
  Тест сборки на разном железе в стрессовых условиях:
  - AMD Phenom 8450 Triple / NVIDIA GeForce GT 630 (vanilla 9 fps, mercurymc 60 fps)
  - AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
 
 ## Контакты
-- Главный разработчик [agogus228](https:/t.me/agogus228)
+- Главный разработчик: [agogus228](https:/t.me/agogus228)
 - Помощник: [vertukv](https:/t.me/vertukv)
 - Тестировщик: [shockwavetank](https:/t.me/shockwave0tank)
 
@@ -19,7 +24,7 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
 - Сайт: mercurymc.ml
 
 ## FAQ
-
+ - Как
 
  - Как установить сборку? - Инструкция по установке находится в архиве со сборкой.
  - Где сборки на старые версии? - С декабря сборки на старые версии больше не поддерживаются. Архивные сборки на старые версии Вы можете скачать по ссылке: https://github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.1.0
