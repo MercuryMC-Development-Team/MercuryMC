@@ -38,10 +38,11 @@
 - [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
 - [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
 - [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
-- [Indium](https://github.com/comp500/Indium) by comp500 - добавление совместимости некоторых модов с модов sodium.
+- [Indium](https://github.com/comp500/Indium) by comp500 - добавление совместимости некоторых модов с модов sodium
 - [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
 - [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) by LambdAurora - соединение текстур травы, снега и т. д.
 - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) by LambdAurora - добавление в игру динамического освещения
+- [ModMenu](https://github.com/TerraformersMC/ModMenu) by modmuss50 - добавление меню контролирования модами
+- [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) by Aizistral studios - защита от системы репортов на 1.19.1+
+- [Puzzle](https://github.com/PuzzleMC/Puzzle) by Motschen - добавление меню управления модами Iris, Continuity, LambdaBetterGrass, LambDynamicLights, CIT Resewn, Custom Entity Models и Entity Texture Features
 - [Zoomify](https://github.com/isXander/Zoomify) by isXander - добавление в игру зума по нажатию на горячую клавишу
--
-
