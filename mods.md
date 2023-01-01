@@ -21,4 +21,9 @@
 - [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot) by UltimateBoomer - изменение приоритета потоков, снижение нагрузки на процессор.
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric) by CaffeineMC - обновленный рендер-движок
 - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) by FlashyReese - расширенные настройки графики
-- [Starlight](https://github.com/PaperMC/Starlight) by spottedstar
+- [Starlight](https://github.com/PaperMC/Starlight) by spottedstar - переписанный движок освещения
+- [Very Many Players](https://github.com/RelativityMC/VMP-fabric) by ishland - повышение оптимизации при большом количестве игроков
+## Моды из vulkan-сборки:
+- [NoFog](https://github.com/Virtuoel/NoFog) by Virtuoel - возможность контролирования отображения тумана
+- [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) by Declipsonator - возможность контролирования отображения всех частиц
+- [VulkanMod](https://github.com/xCollateral/VulkanMod) by xCollateral - 
