@@ -8,4 +8,8 @@
 - [Experimental Performance](https://github.com/fxmorin/ExperimentalPerformance) by fxmorin - снижение потребления ОЗУ, оптимизация сущностей и генерации чанков
 - [Fabric API](https://github.com/FabricMC/fabric) by Modmuss50 - библиотека для работы других модов
 - [FastChest](https://github.com/FakeDomi/FastChest) by FakeDomi - оптимизация сундуков
-- [FastLoad](https://github.com/BumbleSoftware/Fastload) by BumbleSoftware
+- [FastLoad](https://github.com/BumbleSoftware/Fastload) by BumbleSoftware - ускорение загрузки мира
+- [FerriteCore](https://github.com/malte0811/FerriteCore) by malte0811 - снижение потребления ОЗУ
+- [ImmediatelyFast](https://github.com/RaphiMC/ImmediatelyFast) by RaphiMC - оптимизация сущностей, тайл энтити, частиц, GUI, immediate рендеринга
+- [Krypton](https://github.com/astei/krypton) by astei - оптимизация сетевого стека
+- [LanguageReload](https://github.com/Jerozgen/LanguageReload) by Jerozgen - ускорение смены языка
