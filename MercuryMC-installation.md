@@ -1,8 +1,8 @@
 # Установка MercuryMC / MercuryMC+
 1. Установите один из этих лаунчеров:
 - [MultiMC](https://multimc.org/) - лаунчер с множеством полезных функций, требует лицензионный аккаунт.
-- [PrismLauncher](https://prismlauncher.org/) - форк лаунчера MultiMC с поддержкой кастомизации и многими другими полезными функциями, требует хотя бы один лицензионный аккаунт.
-- [PollyMC](https://github.com/fn2006/PollyMC) - форк лаунчера PrismLauncher, не требующий лицензионный аккаунт.
+- [PrismLauncher](https://prismlauncher.org/) - [форк](https://www.google.com/search?q=%D1%87%D1%82%D0%BE+%D1%82%D0%B0%D0%BA%D0%BE%D0%B5+%D1%84%D0%BE%D1%80%D0%BA) лаунчера MultiMC с поддержкой кастомизации и многими другими полезными функциями, требует хотя бы один лицензионный аккаунт.
+- [PollyMC](https://github.com/fn2006/PollyMC) - [форк](https://www.google.com/search?q=%D1%87%D1%82%D0%BE+%D1%82%D0%B0%D0%BA%D0%BE%D0%B5+%D1%84%D0%BE%D1%80%D0%BA) лаунчера PrismLauncher, не требующий лицензионный аккаунт.
 - [ATLauncher](https://atlauncher.com/) - простой и удобный в использовании лаунчер, требует лицензионный аккаунт.
 
 2. В установившемся лаунчере поставьте 17 джаву (если еще не установлена, то скачайте [здесь](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)), для наилучшей оптимизации выделите больше оперативной памяти.
