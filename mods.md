@@ -13,3 +13,9 @@
 - [ImmediatelyFast](https://github.com/RaphiMC/ImmediatelyFast) by RaphiMC - оптимизация сущностей, тайл энтити, частиц, GUI, immediate рендеринга
 - [Krypton](https://github.com/astei/krypton) by astei - оптимизация сетевого стека
 - [LanguageReload](https://github.com/Jerozgen/LanguageReload) by Jerozgen - ускорение смены языка
+- [LazyDFU](https://github.com/astei/lazydfu) by astei - ускорение запуска игры
+- [Lithium](https://github.com/CaffeineMC/lithium-fabric) by CaffeineMC - оптимизация серверной части игры
+- [MemoryLeakFix](https://github.com/fxmorin/memoryLeakFix) by fxmorin - фикс утечек ОЗУ
+- [MoreCulling](https://github.com/fxmorin/MoreCulling) by fxmorin - позволяет не отображать части блоков, которые не видит игрок
+- [Reeses Sodium Options]([github.com/FlashyReese/reeses-sodium-options]) by FlashyReese - улучшенное отображение настроек графики мода sodium
+- [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot) by UltimateBoomer - 
