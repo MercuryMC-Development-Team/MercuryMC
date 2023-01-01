@@ -9,16 +9,18 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
  - AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
 
 ## Контакты
-- Главный разработчик: t.me/agogus228
-- Помощник: t.me/vertukv
-- Тестировщик: vk.com/tsamarin6
+- Главный разработчик [agogus228](https:/t.me/agogus228)
+- Помощник: [vertukv](https:/t.me/vertukv)
+- Тестировщик: [shockwavetank](https:/t.me/shockwave0tank)
 
 ## MercuryMC в соц-сетях
 - GitHub: github.com/MercuryMC-Development-Team/MercuryMC-rus/releases
 - Telegram: t.me/MercuryMC_Updates
-- Сайт: https://www.mercurymc.ml/
+- Сайт: mercurymc.ml
 
 ## FAQ
+
+
  - Как установить сборку? - Инструкция по установке находится в архиве со сборкой.
  - Где сборки на старые версии? - С декабря сборки на старые версии больше не поддерживаются. Архивные сборки на старые версии Вы можете скачать по ссылке: https://github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.1.0
  - Как поставить кастомные шейдеры/optifine-ресурспаки? - Моды с почти полной заменой функций мода optifine находятся в папке optional_mods. Рекомендуется поставить только те моды, что вам нужны. Их функциональность вы можете узнать в файле Описания_модов.txt.
