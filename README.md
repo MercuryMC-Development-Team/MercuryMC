@@ -19,14 +19,14 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
 - Тестировщик: [shockwavetank](https:/t.me/shockwave0tank)
 
 ## MercuryMC в соц-сетях
-- GitHub: github.com/MercuryMC-Development-Team/MercuryMC-rus/releases
-- Telegram: t.me/MercuryMC_Updates
-- Сайт: mercurymc.ml
+- [GitHub](https://github.com/MercuryMC-Development-Team/MercuryMC-rus)
+- [Telegram](https://t.me/MercuryMC_updates)
+- [Наш сайт](https://www.mercurymc.ml/)
 
 ## FAQ
  - Как установить сборку? - инструкция по установке отлично задокументирована в файлах репозитория.                                                         
-Инструкция по установке MercuryMC/MercuryMC+
-Инструкция по установке MercuryMC=
+[Инструкция по установке MercuryMC/MercuryMC+](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMC-installation.md)
+[Инструкция по установке MercuryMC vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
 
 
  - Как установить сборку? - Инструкция по установке находится в архиве со сборкой.
