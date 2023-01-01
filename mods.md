@@ -31,14 +31,17 @@
 ## Моды из MercuryMC+:
 - [Animatica](https://github.com/FoundationGames/Animatica) by FoundationGames - поддержка ресурспаков с анимированными текстурами
 - [CITResewn](https://github.com/SHsuperCM/CITResewn) by SHsuperCM - поддержка ресурспаков со сменой текстуры предмета при переименовании
-- [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах).
-- [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами блоков, объединяющимся в одно целое при соединении.
+- [Cloth Config](https://github.com/shedaniel/cloth-config) by shedaniel - библиотека для работы с интерфейсом настроек
+- [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах)
+- [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами блоков, объединяющимся в одно целое при соединении
 - [Custom Entity Models](https://github.com/dorianpb/cem) by dorianpb - поддержка ресурспаков с кастомными моделями сущностей
 - [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
 - [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
 - [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
+- [Indium](https://github.com/comp500/Indium) by comp500 - добавление совместимости некоторых модов с модов sodium.
 - [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
 - [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) by LambdAurora - соединение текстур травы, снега и т. д.
 - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) by LambdAurora - добавление в игру динамического освещения
-- [
+- [Zoomify](https://github.com/isXander/Zoomify) by isXander - добавление в игру зума по нажатию на горячую клавишу
+-
 
