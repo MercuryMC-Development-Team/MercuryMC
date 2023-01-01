@@ -1,6 +1,7 @@
 # Моды MercuryMC
 ## Основные моды:
 - [C2ME](https://github.com/RelativityMC/C2ME-fabric) by Ishland - ускорение генерации чанков
+- [CullClouds](https://github.com/ugamii/CullClouds) by ugamii - оптимизация облаков
 - [DashLoader](https://github.com/TeamQuantumFusion/DashLoader) by TeamQuantumFusion - ускорение запуска игры
 - [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) by FoundationGames - оптимизация тайл энтити (энтити блоков)
 - [Entity Culling](https://github.com/tr7zw/EntityCulling) by tr7zw - оптимизация сущностей
@@ -32,4 +33,6 @@
 - [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах).
 - [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами блоков, объединяющимся в одно целое при соединении.
 - [Custom Entity Models](https://github.com/dorianpb/cem) by dorianpb - поддержка ресурспаков с кастомными моделями сущностей
-
+- [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
+- [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба.
+- [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - 
