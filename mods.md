@@ -42,7 +42,7 @@
 - [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
 - [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) by LambdAurora - соединение текстур травы, снега и т. д.
 - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) by LambdAurora - добавление в игру динамического освещения
-- [LogicalZoom](https://github.com/LogicalGeekBoy/logical_zoom) by LogicalGeekBoy - добавление в игру зум по нажатию на горячую клавишу
+- [Logical Zoom](https://github.com/LogicalGeekBoy/logical_zoom) by LogicalGeekBoy - добавление в игру зум по нажатию на горячую клавишу
 - [ModMenu](https://github.com/TerraformersMC/ModMenu) by modmuss50 - добавление меню контролирования модами
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) by Aizistral studios - защита от системы репортов на 1.19.1+
 - [Puzzle](https://github.com/PuzzleMC/Puzzle) by Motschen - добавление меню управления модами Iris, Continuity, LambdaBetterGrass, LambDynamicLights, CIT Resewn, Custom Entity Models и Entity Texture Features
