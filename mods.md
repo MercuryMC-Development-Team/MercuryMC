@@ -29,6 +29,7 @@
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) by Declipsonator - возможность контролирования отображения всех частиц
 - [VulkanMod](https://github.com/xCollateral/VulkanMod) by xCollateral - порт vulkan API в minecraft
 ## Моды из MercuryMC+:
+- [Animatica](https://github.com/FoundationGames/Animatica) by FoundationGames - поддержка ресурспаков с анимированными текстурами
 - [CITResewn](https://github.com/SHsuperCM/CITResewn) by SHsuperCM - поддержка ресурспаков со сменой текстуры предмета при переименовании
 - [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах).
 - [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами блоков, объединяющимся в одно целое при соединении.
@@ -36,4 +37,6 @@
 - [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
 - [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
 - [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
-- [Animatica
+- [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
+- 
+
