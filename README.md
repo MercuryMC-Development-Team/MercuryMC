@@ -27,8 +27,8 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
 Информация и список модов, которые включает в себя сборка, Вы можете посмотреть [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/mods.md).
 
 ## FAQ
- - Как установить сборку? - инструкция по установке отлично задокументирована в файлах репозитория.                                                         
-[Инструкция по установке MercuryMC/MercuryMC+](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMC-installation.md)
-Инструкция по установке MercuryMC vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
+ - Как установить сборку? - инструкция по установке отлично задокументирована в файлах репозитория.
+   - [Инструкция по установке MercuryMC/MercuryMC+](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMC-installation.md)
+   - [Инструкция по установке MercuryMC-vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
  - Где сборки на старые версии? - с декабря сборки на старые версии больше не поддерживаются. Архивные сборки Вы можете скачать [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.1.0).
- - Во время установки/игрового процесса у меня возникла ошибка, которая скорее всего связана со сборкой. Как её пофиксить? - Вы в любое время можете рассказать нам о своей проблеме во вкладке [issues](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/issues). Мы постараемся решить Вашу проблему или пофиксить баг в новых версиях сборки.
+ - Во время установки/игрового процесса у меня возникла ошибка, которая скорее всего связана со сборкой. Как её пофиксить? - Вы в любое время можете рассказать нам о своей проблеме во вкладке [issues](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/issues). Мы постараемся решить Вашу проблему, пофиксить баг в новых версиях сборки.
