@@ -34,5 +34,6 @@
 - [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами блоков, объединяющимся в одно целое при соединении.
 - [Custom Entity Models](https://github.com/dorianpb/cem) by dorianpb - поддержка ресурспаков с кастомными моделями сущностей
 - [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
-- [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба.
-- [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - 
+- [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
+- [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
+- [Animatica
