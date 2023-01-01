@@ -4,4 +4,6 @@
 - [DashLoader](https://github.com/TeamQuantumFusion/DashLoader) by TeamQuantumFusion - ускорение запуска игры
 - [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities) by FoundationGames - оптимизация тайл энтити (энтити блоков)
 - [Entity Culling](https://github.com/tr7zw/EntityCulling) by tr7zw - оптимизация сущностей
-- [Exordium](https://github.com/tr7zw/Exordium) by tr7zw - снижение расходов на хотбар, гуи для
+- [Exordium](https://github.com/tr7zw/Exordium) by tr7zw - снижение расходов на хотбар, HUD, GUI для повышения FPS в рендеринге мира
+- [Experimental Performance](https://github.com/fxmorin/ExperimentalPerformance) by fxmorin - снижение потребления ОЗУ, оптимизация сущностей и генерации чанков
+- 
