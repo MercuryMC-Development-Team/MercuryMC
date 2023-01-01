@@ -38,5 +38,7 @@
 - [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
 - [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
 - [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
-- 
+- [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) by LambdAurora - соединение текстур травы, снега и т. д.
+- [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) by LambdAurora - добавление в игру динамического освещения
+- [
 
