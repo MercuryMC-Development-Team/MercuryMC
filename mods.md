@@ -26,4 +26,6 @@
 ## Моды из vulkan-сборки:
 - [NoFog](https://github.com/Virtuoel/NoFog) by Virtuoel - возможность контролирования отображения тумана
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) by Declipsonator - возможность контролирования отображения всех частиц
-- [VulkanMod](https://github.com/xCollateral/VulkanMod) by xCollateral - 
+- [VulkanMod](https://github.com/xCollateral/VulkanMod) by xCollateral - порт vulkan API в minecraft
+## Моды из MercuryMC+:
+- [
