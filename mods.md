@@ -29,5 +29,6 @@
 - [VulkanMod](https://github.com/xCollateral/VulkanMod) by xCollateral - порт vulkan API в minecraft
 ## Моды из MercuryMC+:
 - [CITResewn](https://github.com/SHsuperCM/CITResewn) by SHsuperCM - поддержка ресурспаков со сменой текстуры предмета при переименовании
-- [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах)
-- [
+- [Colormatic](https://github.com/kvverti/colormatic) by kvverti - поддержка ресурспаков с жёстко запрограммированными цветами игры (оттенки блоков, зависящих от биома, например, тусклый дёрн в болотах).
+- [Continuity](https://github.com/PepperCode1/Continuity) by PepperCode1 - поддержка ресурспаков с текстурами, объединяющимся 
+од, позволяющий ресурспакам объединять текстуры блоков в одно целое.
