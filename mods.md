@@ -38,7 +38,7 @@
 - [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features) by Traben-0 - поддержка ресурспаков с рандомными, мигающими, светящимся текстурами сущностей
 - [FabricSkyBoxes](https://github.com/AMereBagatelle/fabricskyboxes) by AMereBagatelle - поддержка ресурспаков с кастомными текстурами неба
 - [FabricSkyBoxes Interop](https://github.com/FlashyReese/fabricskyboxes-interop) by FlashyReese - добавление моду FabricSkyBoxes совместимость с optifine-ресурспаками
-- [Indium](https://github.com/comp500/Indium) by comp500 - добавление совместимости некоторых модов с модов sodium
+- [Indium](https://github.com/comp500/Indium) by comp500 - добавление совместимости некоторых модов с модов sodium (в сборке нужен для работы модов colormatic, continuity, lambdabettergrass)
 - [Iris](https://github.com/IrisShaders/Iris) by coderbot - возможность загружать кастомные шейдеры
 - [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass) by LambdAurora - соединение текстур травы, снега и т. д.
 - [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) by LambdAurora - добавление в игру динамического освещения
