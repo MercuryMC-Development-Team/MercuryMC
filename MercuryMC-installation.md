@@ -5,7 +5,7 @@
 - [PollyMC](https://github.com/fn2006/PollyMC) - форк лаунчера PrismLauncher, не требующий лицензионный аккаунт.
 - [ATLauncher](https://atlauncher.com/) - простой и удобный в использовании лаунчер, требует лицензионный аккаунт.
 
-2. В установившемся лаунчере поставьте 17 джаву (если еще не установлена, то установите [здесь](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)), для наилучшей оптимизации выделите больше оперативной памяти.
+2. В установившемся лаунчере поставьте 17 джаву (если еще не установлена, то скачайте [здесь](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)), для наилучшей оптимизации выделите больше оперативной памяти.
 
 3. Установите сборку в лаунчере по инструкции:
 - MultiMC / PrismLauncher / PollyMC
