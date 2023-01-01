@@ -18,4 +18,7 @@
 - [MemoryLeakFix](https://github.com/fxmorin/memoryLeakFix) by fxmorin - фикс утечек ОЗУ
 - [MoreCulling](https://github.com/fxmorin/MoreCulling) by fxmorin - позволяет не отображать части блоков, которые не видит игрок
 - [Reeses Sodium Options]([github.com/FlashyReese/reeses-sodium-options]) by FlashyReese - улучшенное отображение настроек графики мода sodium
-- [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot) by UltimateBoomer - 
+- [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot) by UltimateBoomer - изменение приоритета потоков, снижение нагрузки на процессор.
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric) by CaffeineMC - обновленный рендер-движок
+- [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) by FlashyReese - расширенные настройки графики
+- [Starlight](https://github.com/PaperMC/Starlight) by spottedstar
