@@ -13,6 +13,14 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
  - AMD Phenom 8450 Triple / NVIDIA GeForce GT 630 (vanilla 9 fps, mercurymc 60 fps)
  - AMD A10-7850K / AMD Radeon(TM) R7 Graphics (vanilla 10 fps, mercurymc 45 fps)
 
+## Как установить сборку?
+  Инструкция по установке отлично задокументирована в файлах репозитория.
+   - [Инструкция по установке MercuryMC/MercuryMC+](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMC-installation.md)
+   - [Инструкция по установке MercuryMC-vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
+
+## Моды MercuryMC
+Информация и список модов, которые включает в себя сборка, Вы можете посмотреть [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/mods.md).
+
 ## Контакты
 - Главный разработчик: [agogus228](https:/t.me/agogus228)
 - Помощник: [vertukv](https:/t.me/vertukv)
@@ -23,12 +31,6 @@ MercuryMC - сборка для Minecraft: Java Edition, нацеленная н
 - [Telegram](https://t.me/MercuryMC_updates) - группа с обновлениями сборки
 - [Наш сайт](https://www.mercurymc.ml/) - сайт, созданный по преколу xd
 
-## Моды MercuryMC
-Информация и список модов, которые включает в себя сборка, Вы можете посмотреть [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/mods.md).
-
 ## FAQ
- - Как установить сборку? - инструкция по установке отлично задокументирована в файлах репозитория.
-   - [Инструкция по установке MercuryMC/MercuryMC+](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMC-installation.md)
-   - [Инструкция по установке MercuryMC-vulkan](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/blob/main/MercuryMCvulkan-installation.md)
  - Где сборки на старые версии? - с декабря сборки на старые версии больше не поддерживаются. Архивные сборки Вы можете скачать [здесь](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/releases/tag/v5.1.0).
  - Во время установки/игрового процесса у меня возникла ошибка, которая скорее всего связана со сборкой. Как её пофиксить? - Вы в любое время можете рассказать нам о своей проблеме во вкладке [issues](https://github.com/MercuryMC-Development-Team/MercuryMC-rus/issues). Мы постараемся решить Вашу проблему, пофиксить баг в новых версиях сборки.
