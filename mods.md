@@ -17,7 +17,6 @@
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric) by CaffeineMC - оптимизация серверной части игры
 - [MemoryLeakFix](https://github.com/fxmorin/memoryLeakFix) by fxmorin - фикс утечек ОЗУ
 - [MoreCulling](https://github.com/fxmorin/MoreCulling) by fxmorin - позволяет не отображать части блоков, которые не видит игрок
-- [Reeses Sodium Options]([github.com/FlashyReese/reeses-sodium-options]) by FlashyReese - улучшенное отображение настроек графики мода sodium
 - [SmoothBoot](https://github.com/UltimateBoomer/mc-smoothboot) by UltimateBoomer - изменение приоритета потоков, снижение нагрузки на процессор.
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric) by CaffeineMC - обновленный рендер-движок
 - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric) by FlashyReese - расширенные настройки графики
@@ -45,3 +44,4 @@
 - [ModMenu](https://github.com/TerraformersMC/ModMenu) by modmuss50 - добавление меню контролирования модами
 - [No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports) by Aizistral studios - защита от системы репортов на 1.19.1+
 - [Puzzle](https://github.com/PuzzleMC/Puzzle) by Motschen - добавление меню управления модами Iris, Continuity, LambdaBetterGrass, LambDynamicLights, CIT Resewn, Custom Entity Models и Entity Texture Features
+- [Reeses Sodium Options]([github.com/FlashyReese/reeses-sodium-options]) by FlashyReese - улучшенное отображение настроек графики мода sodium
