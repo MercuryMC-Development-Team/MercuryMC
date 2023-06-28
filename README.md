@@ -1,3 +1,4 @@
+проект заброшен оп оп скачивайте норм сборку modrinth.com/modpack/sop а не это говно
 <img src="icon.png" width="128">
 
 # MercuryMC
